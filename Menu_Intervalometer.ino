@@ -9,6 +9,8 @@
 Adafruit_SH1106G display = Adafruit_SH1106G(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire);
 //======================BUTTONS SETUP FUNCTION==============================================//
 using namespace simplebutton;
+
+
 Button* UP = NULL;
 Button* DOWN = NULL;
 Button* ACCEPT = NULL;
