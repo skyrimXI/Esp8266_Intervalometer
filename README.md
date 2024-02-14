@@ -1,1 +1,1 @@
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://intranet.cb.amrita.edu/sites/default/files/inline-images/surya-namaskar.gif)https://intranet.cb.amrita.edu/sites/default/files/inline-images/surya-namaskar.gif" width="40" height="40" />
+<img src="https://intranet.cb.amrita.edu/sites/default/files/inline-images/surya-namaskar.gif" width="100%" />
